@@ -17,14 +17,15 @@
 ## Installation
 
    to run locally, clone the github repo, then use the commands `npm i` followed by `npm run develop` to run the server within a dev environment.
+      Once running, navigate to `localhost:3000` and create a user, then search for any book and add to your personal favorites
 
 ## Usage
 
-### Video of Usage:
+### Link to Live App:
 
-[Video of application](no but the application is deployed at the link below)
+https://gbookhomelibrary.herokuapp.com/
 
-   Once running, navigate to `localhost:3000` and create a user, then search for any book and add to your personal favorites
+
 
 ## Contributions
 
